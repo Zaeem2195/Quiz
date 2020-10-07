@@ -1,0 +1,24 @@
+
+.App {
+  text-align: center;
+  height:1000px ;
+}
+.mynavbar{
+  padding: 10px 0px;
+  background-color: teal;
+}
+.mynavbar ul li{
+  display: inline-block;
+  padding: 0px 10px;
+}
+.mynavbar ul li a{
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+  
+.nav-bar{
+  background-color: darkgoldenrod;
+  display:flex;
+}
